@@ -1,16 +1,4 @@
 
-https://ai.google.dev/static/site-assets/images/share-ais-513315318.png
-
-
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/92831203-ffe1-47bc-8151-500c89171814
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
