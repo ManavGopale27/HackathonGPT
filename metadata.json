@@ -1,0 +1,6 @@
+{
+  "name": "Hackathon GPT",
+  "description": "Full-stack AI hackathon team orchestrator and member co-pilot system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

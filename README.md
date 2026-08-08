@@ -1,2 +1,20 @@
-# HackathonGPT
-An autonomous AI team orchestrator and co-pilot system for hackathons. Generates deep system architecture blueprints, hour-by-hour execution timetables, strategic execution rules, and role-specific AI sub-chatbots using the Google Gemini API.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/92831203-ffe1-47bc-8151-500c89171814
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
